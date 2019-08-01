@@ -23,7 +23,7 @@ https://github.com/CS499WasimAlim/Capstone/blob/d79a0e4e53aed97b644964b6e380ce47
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://github.com/CS499WasimAlim/Capstone/blob/d79a0e4e53aed97b644964b6e380ce47911a74c5/main.c#L8) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
