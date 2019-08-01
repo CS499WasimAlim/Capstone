@@ -14,7 +14,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-'https://github.com/CS499WasimAlim/Capstone/blob/d79a0e4e53aed97b644964b6e380ce47911a74c5/main.c#L8'
+<a href="https://github.com/CS499WasimAlim/Capstone/blob/d79a0e4e53aed97b644964b6e380ce47911a74c5/main.c#L8">
 - Bulleted
 - List
 
